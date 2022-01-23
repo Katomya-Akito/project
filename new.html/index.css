@@ -1,0 +1,22 @@
+.parent {
+  background: burlywood;
+  padding: 1rem;
+}
+.child {
+  border: 1px solid chartreuse;
+  margin: 1rem 0;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+.child-1 {
+  width: 100px;
+}
+.child-2 {
+  width: 300px;
+}
+.child-2 {
+  width: 500px;
+}
+h1 {
+  text-align: center;
+}
